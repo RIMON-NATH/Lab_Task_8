@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\bin\Debug\Lab_Task_8.exe.config
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\bin\Debug\Lab_Task_8.exe
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\bin\Debug\Lab_Task_8.pdb
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.Properties.Resources.resources
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.exe
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.pdb
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.Form1.resources
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.personalInformation.resources
+C:\Users\HP\Desktop\Lav_Task_8\Lab_Task_8\Lab_Task_8\obj\Debug\Lab_Task_8.userInfo.resources
